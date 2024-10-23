@@ -62,7 +62,7 @@ where $$\( \pi \)$$ is the optimal transport plan, and $$\( x_0 \)$$ and $$\( x_
 
 #### **Schrödinger Bridge Conditional Flow Matcher (SB-CFM)**
 
-Another method is **Schrödinger Bridge Conditional Flow Matcher (SB-CFM)**, which uses an entropically regularized transport plan \( \pi_\epsilon \). This method stabilizes training by introducing regularization, enabling the modeling of stochastic flows between EEG and ECoG data:
+Another method is **Schrödinger Bridge Conditional Flow Matcher (SB-CFM)**, which uses an entropically regularized transport plan $$\( \pi_\epsilon \)$$. This method stabilizes training by introducing regularization, enabling the modeling of stochastic flows between EEG and ECoG data:
 
 $$\[
 z = (x_0, x_1), \quad q(z) = \pi_\epsilon(x_0, x_1),
