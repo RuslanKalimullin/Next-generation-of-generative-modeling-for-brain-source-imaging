@@ -1,5 +1,10 @@
 # Next generation of generative modeling for brain source imaging
 
+Presentation link: 
+
+Jupyter Notebook: 
+
+
 # EEG-to-ECoG Inverse Problem Using Optimal Transport and Conditional Flow Matching
 
 ## 1. **Mathematical Problem Formulation**
