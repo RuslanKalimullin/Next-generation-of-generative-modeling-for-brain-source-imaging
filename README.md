@@ -1,8 +1,8 @@
 # Next generation of generative modeling for brain source imaging
 
-Presentation link: 
+[Presentation link](https://docs.google.com/presentation/d/1CO6aT8fXYmgwDTWxCvjzQ5JX0CCZnw6ixIVvrzNQDl8/edit?usp=sharing)
 
-Jupyter Notebook: 
+[Jupyter Notebook](https://github.com/RuslanKalimullin/Next-generation-of-generative-modeling-for-brain-source-imaging/blob/main/Code/CFM_torchcfm_realisation.ipynb)
 
 
 # EEG-to-ECoG Inverse Problem Using Optimal Transport and Conditional Flow Matching
