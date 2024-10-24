@@ -1,4 +1,4 @@
-![]("https://github.com/RuslanKalimullin/Next-generation-of-generative-modeling-for-brain-source-imaging/edit/main/Logo.png")    
+![]("https://github.com/RuslanKalimullin/Next-generation-of-generative-modeling-for-brain-source-imaging/edit/main/Logo.jpg")    
 # Next generation of generative modeling for brain source imaging
 
 [Presentation link](https://docs.google.com/presentation/d/1CO6aT8fXYmgwDTWxCvjzQ5JX0CCZnw6ixIVvrzNQDl8/edit?usp=sharing)
